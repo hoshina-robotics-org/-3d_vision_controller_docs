@@ -14,10 +14,14 @@ First, let us describe the product configuration. The contents of this product a
 - 3D Camera & Cables
 - Calibration tool
 
+.. image:: ../img/conponents.png
+   :scale: 40%
+   :align: center
+
 A conceptual diagram of the installation of the product is shown below
 
 .. image:: ../img/system_diagram.png
    :scale: 40%
-   :align: left
+   :align: center
 
 
