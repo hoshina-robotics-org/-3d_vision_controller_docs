@@ -20,7 +20,7 @@ Conponents
 
 .. image:: ../img/conponents.png
    :scale: 50%
-   :align: left
+   :align: center
 
 
 ==========================
@@ -31,5 +31,5 @@ A conceptual diagram of the installation of the product is shown below
 
 .. image:: ../img/system_diagram.png
    :scale: 50%
-   :align: left
+   :align: center
 
