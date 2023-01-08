@@ -10,7 +10,9 @@ This section describes how to set up this product (e.g., how to install it befor
 
 First, let us describe the product configuration. The contents of this product are as follows
 
-## Conponents
+==========================
+Conponents
+==========================
 
 - 3D Vision Controller
 - 3D Camera & Cables
@@ -20,7 +22,9 @@ First, let us describe the product configuration. The contents of this product a
    :scale: 50%
    :align: left
 
-## System Diagram
+==========================
+System Diagram
+==========================
 
 A conceptual diagram of the installation of the product is shown below
 
