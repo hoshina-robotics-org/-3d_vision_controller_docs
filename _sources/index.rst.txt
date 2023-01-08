@@ -6,6 +6,12 @@
 Welcome to 3D Vision Kit docs's documentation!
 =====================================================
 
+Welcomto 3D Vision Kit document.
+
+This document is usage of "3D Vision Kit".
+
+Enjoy 3D picking !
+
 .. toctree::
    :maxdepth: 2
    :caption: StartUp
