@@ -2,7 +2,7 @@
 Installing 3D Vision Kit 
 ###########################
 
-Thank you for choosing hoshina_robotics "3D Vision Kit"
+Thank you for choosing hoshina_robotics "3D Vision Kit" !
 
 This section describes product overview & installation.
 
@@ -23,7 +23,7 @@ Conponents
 System Diagram
 ==========================
 
-A conceptual diagram of the installation of the product is shown below
+A conceptual diagram of the installation of the product is shown below.
 
 .. image:: ../img/system_diagram.png
    :scale: 50%
