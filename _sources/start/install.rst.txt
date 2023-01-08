@@ -16,7 +16,7 @@ First, let us describe the product configuration. The contents of this product a
 
 A conceptual diagram of the installation of the product is shown below
 
-.. image:: ../..//img/system_diagram.png
+.. image:: /img/system_diagram.png
    :scale: 40%
    :align: left
 
