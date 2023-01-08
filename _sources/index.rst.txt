@@ -14,7 +14,7 @@ Enjoy 3D picking !
 
 .. toctree::
    :maxdepth: 2
-   :caption: StartUp
+   :caption: START HERE
    :numbered:
 
    /start/overview.rst
