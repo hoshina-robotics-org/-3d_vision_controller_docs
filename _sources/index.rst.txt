@@ -17,8 +17,10 @@ Enjoy 3D picking !
    :caption: START HERE
    :numbered:
 
-   /start/overview.rst
+   /start/install.rst
    /start/first_pick.rst
+   /start/optimize.rst
+   /start/video_tutorial.rst
 
 .. toctree::
    :maxdepth: 2
