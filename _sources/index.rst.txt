@@ -32,9 +32,3 @@ Enjoy 3D picking !
    /documentation/calibration.rst
    /documentation/detection.rst
    /documentation/settings.rst
-
-.. image:: ../img/system_diagram.png
-   :scale: 40%
-   :height: 100px
-   :width: 200px
-   :align: left
