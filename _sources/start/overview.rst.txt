@@ -2,18 +2,8 @@
 Overview
 ###########################
 
-3D Vision KIt is a Kit to support the construction of a 3D Vision System for a robot arm.
+Welcomto 3D Vision Kit document.
 
-This product is consists follow things.
+This document is usage of "3D Vision Kit".
 
-- 3D Vision Controller
-- 3D Camera
-- Calibration tool
-
-This document describes the following things.
-
-- functional specification
-- use case
-- usage
-
-I hope this product will be of help to you !
+Enjoy 3D picking !
