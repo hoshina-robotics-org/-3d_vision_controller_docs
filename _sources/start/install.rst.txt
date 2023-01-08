@@ -1,9 +1,23 @@
 ###########################
-Overview
+Installing 3D Vision Kit 
 ###########################
 
-Welcomto 3D Vision Kit document.
+Thank you for choosing hoshina_robotics "3D Vision Kit"
 
-This document is usage of "3D Vision Kit".
+This section describes how to set up this product (e.g., how to install it before picking).
 
-Enjoy 3D picking !
+# Product Configuration
+
+First, let us describe the product configuration. The contents of this product are as follows
+
+- 3D Vision Controller
+- 3D Camera & Cables
+- Calibration tool
+
+A conceptual diagram of the installation of the product is shown below
+
+.. image:: ../..//img/system_diagram.png
+   :scale: 40%
+   :align: left
+
+
