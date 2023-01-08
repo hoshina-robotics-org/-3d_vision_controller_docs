@@ -4,11 +4,7 @@ Installing 3D Vision Kit
 
 Thank you for choosing hoshina_robotics "3D Vision Kit"
 
-This section describes how to set up this product (e.g., how to install it before picking).
-
-# Product Configuration
-
-First, let us describe the product configuration. The contents of this product are as follows
+This section describes product overview & installation.
 
 ==========================
 Conponents
