@@ -2,4 +2,6 @@
 Overview
 ###########################
 
-this document is usafge of "3d_vision_controller"
+This document is usafge of "3D Vision Kit".
+
+
